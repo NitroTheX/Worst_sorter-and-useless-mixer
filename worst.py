@@ -43,4 +43,3 @@ elif choose == 2:
     number_sorter()
 else:
     print("just 1 or 2 :|")
-bogo()
